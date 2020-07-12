@@ -12,3 +12,10 @@ http://randstring.herokuapp.com/randstring/N/
 
 ### Example run
 ![alt text](https://github.com/namhsuya/randstring-django/blob/master/randstring.png)
+
+### Cloning this repo
+- Update the SECRET_KEY to your own Django secret key 
+- Update yourapp.herokuapp.com to the name of your app
+
+in the settings.py file inside randstring subfolder
+
