@@ -4,3 +4,4 @@ The API is hosted on Heroku.
 URL: http://randstring.herokuapp.com/randstring/42/
 
 ### Example run
+![alt text](https://github.com/namhsuya/randstring-django/blob/master/randstring.png)
