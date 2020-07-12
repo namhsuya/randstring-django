@@ -1,0 +1,1 @@
+web: gunicorn randstring.wsgi --log-file -
